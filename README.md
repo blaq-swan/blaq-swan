@@ -3,8 +3,6 @@ Hello, Friend![](https://user-images.githubusercontent.com/18350557/176309783-07
 
 I am Alang'o Bryan, an aspiring Software Engineer from Nairobi, Kenya. I am looking for problems, corporate problems, that can be solved technologically. Save Software Engineering, I have a strong interest in data science, ethical hacking, penetration testing, and leadership
 
-* 🌍  I'm based in Nairobi, Kenya.
-* ✉️  You can contact me at [mr.alangobryan@gmail.com](mailto:mr.alangobryan@gmail.com)
 * 🧠  I'm learning Django, Flask, Golang
 * 🤝  I'm open to collaborating on complex corporate problems that require some thinking
 * 💻  I am interested in DevOps and DevSecOps
@@ -57,15 +55,3 @@ src="https://img.shields.io/github/followers/blaq-swan?logo=github&style=for-the
 <a href="http://www.github.com/blaq-swan"><img src="https://activity-graph.herokuapp.com/graph?username=blaq-swan&bg_color=000000&color=64748b&line=facc15&point=64748b&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/blaq-swan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blaq-swan&langs_count=10&title_color=facc15&text_color=64748b&icon_color=facc15&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/blaq-swan/alx-higher_level_programming" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=blaq-swan&repo=alx-higher_level_programming&title_color=facc15&text_color=64748b&icon_color=facc15&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/blaq-swan/alx-system_engineering-devops" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=blaq-swan&repo=alx-system_engineering-devops&title_color=facc15&text_color=64748b&icon_color=facc15&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/blaq-swan/alx-low_level_programming" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=blaq-swan&repo=alx-low_level_programming&title_color=facc15&text_color=64748b&icon_color=facc15&bg_color=000000&hide_border=true&locale=en" /></a></div>
-
-### Support Me
-
-<a href="https://www.buymeacoffee.com/mralangobrC"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
